@@ -4,7 +4,212 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8865d3-b85f-4079-9cf0-0bcfcb9034af" name="Changes" comment="" />
+    <list default="true" id="ff8865d3-b85f-4079-9cf0-0bcfcb9034af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ktlint-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hhplus-tdd-jvm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hhplus-tdd-jvm.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hhplus-tdd-jvm.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/core/ApiControllerAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/core/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/core/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/TddApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/controller/PointController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/database/PointHistoryTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/database/UserPointTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/model/PointHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/model/TransactionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/model/UserPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/service/PointService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/io/hhplus/tdd/point/service/PointServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/io/displayName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/io/hhplus/tdd/PointServiceImplTest$ChargeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/io/hhplus/tdd/PointServiceImplTest$findPointHistoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/io/hhplus/tdd/PointServiceImplTest$findPointTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/io/hhplus/tdd/PointServiceImplTest$useTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/io/hhplus/tdd/PointServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/hhplus/tdd/TddApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/hhplus/tdd/point/controller/PointController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/io/hhplus/tdd/point/controller/PointController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/hhplus/tdd/point/service/PointService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/io/hhplus/tdd/point/service/PointService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/hhplus/tdd/point/service/PointServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/io/hhplus/tdd/point/service/PointServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/io/hhplus/tdd/PointServiceImplTest$ChargeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/io/hhplus/tdd/PointServiceImplTest$ChargeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/io/hhplus/tdd/PointServiceImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/io/hhplus/tdd/PointServiceImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PointServiceImpl.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/PointServiceImplTest$ChargeTest.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/PointServiceImplTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$FixtureLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$FixtureMonkeyLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$FixtureMonkeyStarterLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$FixtureVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$JacksonLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$KtlintVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$MicrometerLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$MicrometerRegistryLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$MicrometerTracingBridgeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$MicrometerTracingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$MysqlLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringBootConfigurationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringBootLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringBootStarterDataLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringBootStarterLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringCloudLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringCloudVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringDependencyPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringIoDependencyVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringIoVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$SpringVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$TestContainersJunitLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$TestContainersLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$TestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$TestVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$TestcontainersBundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$FixtureLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$FixtureMonkeyLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$FixtureMonkeyStarterLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$FixtureVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$JacksonLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KtlintVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$MicrometerLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$MicrometerRegistryLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$MicrometerTracingBridgeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$MicrometerTracingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$MysqlLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringBootConfigurationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringBootLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringBootStarterDataLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringBootStarterLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringCloudLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringCloudVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringDependencyPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringIoDependencyVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringIoVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SpringVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestContainersJunitLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestContainersLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestVersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestcontainersBundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/b6735f406f36c51adcd843f79dd8920e367718e7/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/8.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/core/ApiControllerAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/core/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/core/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/TddApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/controller/PointController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/database/PointHistoryTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/database/UserPointTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/model/PointHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/model/TransactionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/model/UserPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/service/PointService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/main/io/hhplus/tdd/point/service/PointServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/test/io/displayName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/test/io/hhplus/tdd/PointServiceImplTest$ChargeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/test/io/hhplus/tdd/PointServiceImplTest$useTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/bin/test/io/hhplus/tdd/PointServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/core/ApiControllerAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/core/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/core/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/TddApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/controller/PointController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/database/PointHistoryTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/database/UserPointTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/model/PointHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/model/TransactionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/model/UserPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/service/PointService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/main/io/hhplus/tdd/point/service/PointServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/test/io/displayName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/test/io/hhplus/tdd/PointServiceImplTest$ChargeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/classes/java/test/io/hhplus/tdd/PointServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/resources/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/tmp/compileJava/compileTransaction/stash-dir/PointServiceImpl.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/tmp/compileTestJava/compileTransaction/stash-dir/PointServiceImplTest$ChargeTest.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/tmp/compileTestJava/compileTransaction/stash-dir/PointServiceImplTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/core/ApiControllerAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/core/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/core/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/TddApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/HhplusApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/controller/PointController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/database/PointHistoryTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/database/UserPointTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/model/PointHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/model/TransactionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/model/UserPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/service/PointService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/java/io/hhplus/tdd/point/service/PointServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/test/java/io/displayName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhplus-tdd-java/src/test/java/io/hhplus/tdd/PointServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/TddApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +219,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hhplus-server-jvm" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hhplus-server-jvm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hhplus-server-jvm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,9 +266,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2do7wYRUvUCj6edZEX3807ez5Vy" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -41,26 +277,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build hhplus-server.executor": "Run",
     "Gradle.Build hhplus-tdd-jvm.executor": "Run",
+    "Gradle.PointServiceImplTest.executor": "Run",
+    "Gradle.hhplus-server [bootJar].executor": "Run",
+    "Gradle.hhplus-server [buildDependents].executor": "Run",
+    "Gradle.hhplus-server [build].executor": "Run",
+    "Gradle.hhplus-server [clean].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.HhplusApplication.executor": "Run",
     "Spring Boot.TddApplication.executor": "Run",
     "aspect.path.notification.shown": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/core/workspace/me/assignments/hhplus-tdd-jvm/src/main/java",
+    "last_opened_file_path": "D:/00.yelee/개인/hhplus/hhplus-server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.ktlint-plugin",
     "vue.rearranger.settings.migration": "true"
   }
@@ -73,14 +316,148 @@
       <recent name="io.hhplus.tdd.point" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TddApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="hhplus-tdd-jvm.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="io.hhplus.tdd.TddApplication" />
+  <component name="RunManager" selected="Gradle.PointServiceImplTest">
+    <configuration name="PointServiceImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;io.hhplus.tdd.PointServiceImplTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="hhplus-server [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="hhplus-server [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="hhplus-server [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="hhplus-server [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hhplus-tdd-jvm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hhplus-tdd-jvm" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HhplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hhplus-server-jvm.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.hhplus.tdd.HhplusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PointServiceImplTest" />
+        <item itemvalue="Gradle.hhplus-server [build]" />
+        <item itemvalue="Gradle.hhplus-server [clean]" />
+        <item itemvalue="Gradle.hhplus-server [buildDependents]" />
+        <item itemvalue="Gradle.hhplus-server [bootJar]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -94,6 +471,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710662815938</updated>
       <workItem from="1710662817309" duration="2568000" />
+      <workItem from="1760489302333" duration="7356000" />
     </task>
     <servers />
   </component>
